@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# CatBoost training outputs
+catboost_info/
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
